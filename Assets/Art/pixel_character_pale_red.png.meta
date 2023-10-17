@@ -1,0 +1,1297 @@
+fileFormatVersion: 2
+guid: b03eabba22347b64a91620c52dac3a1e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_character_pale_red_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c7ff6437698e14fa373c19e3c23030
+      internalID: -1304268973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b486ddb500722a44a1e25dba1d30dae
+      internalID: 513413228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f69db546b78d6448ae51ab89b7e876
+      internalID: 1792792509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6825f20e549e9d244ae55295bbfda9ce
+      internalID: 1686222868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64b9ca5a7dcdda4594edd91ba177280
+      internalID: 1305368546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c802ba6a11bfb9340b10115502e80de7
+      internalID: 10673765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb655ca640dfa4bb1d918f1611e739
+      internalID: 1348064247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a816e0a65cd17440be898428be400af
+      internalID: -1889135749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 296
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7923a3e86879b1f4aa726c76172d99b4
+      internalID: -243673482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34caa61b20f07447870dd102744ea78
+      internalID: -379554652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 249
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1962baaded2d76a408cadc0a97dff4e2
+      internalID: 1708496130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ac8aa4628967245b48542640e17e6c
+      internalID: 262616576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b92ca600a1b364a8bcf12f4bbc4257
+      internalID: 286056019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab3654bcd85a249b4887a71ed5f3e3
+      internalID: 375781257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 249
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d97e09ab4a8567469dfd20d5f6318c0
+      internalID: 1202978791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c8c3c9de0084c4a851e9bfdec3d777
+      internalID: 90036726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3788fe545fd30dd43a75c28780e8390b
+      internalID: 346035277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 249
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77f9db19a8759245941788b0273c326
+      internalID: 569398267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79539657b3bd542bb8746ac4039134
+      internalID: -1602536968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efd5db5f12d04c4a9c0aeffb3947f6b
+      internalID: -114178047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe56d7e03a53b064db601a5875fd56e3
+      internalID: -91868594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca93b06f6902d7a4dab30c8f60c569e3
+      internalID: -254997307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 201
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4270423eaffd191409b4dd7058b31e65
+      internalID: -1695168117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98454c7b066b36a48a458172b73a4268
+      internalID: 114569502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e3b1293fd1294a83620f8b9722768
+      internalID: 526424855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b90691d6e0e9e14cb8902b65fe1ef06
+      internalID: 1536158645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7324db4924074b92c659834825911
+      internalID: -1895016027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 153
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a730d2b10dfa84a9a85fc8aff7a1e8
+      internalID: -1680498904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0db2685d66abe40b8c40a6502af40d
+      internalID: 1286780535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5402d14ec0e049a44b4d14f28ffc0760
+      internalID: 1890668417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b88f01bd2dd3504392604481fdaf459
+      internalID: 222707667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b75007bd72f348a67485d30d19370
+      internalID: -1878323157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 105
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb35ea8e3da7834bb420b81322212a4
+      internalID: -2064238183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 105
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99288195e48ae04090b4466cecb6542
+      internalID: -601692768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e5a3585c92ac54fa78c9956acb6dba
+      internalID: -1623474332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2665a801d313a64980c4ba0398273ac
+      internalID: -1482395084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52dda137b132f64a85b8ee7600a8dec
+      internalID: -1824275351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 56
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b189c12837e34e942b0ee0358e392803
+      internalID: -1118618274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3fb62d9bca4314f8a9da1b3d85a9e5
+      internalID: -858048178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5888251fc2e9488ee53e84abe1228
+      internalID: 1402637805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e619ec74b3774104c80c4d8485af66ea
+      internalID: 2047412185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6186e62d71b14645b863761d18ad15a
+      internalID: -1054256955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 56
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dee9990b00031644893a091c0d52532
+      internalID: 2025565587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebd980eacbc8314296111ca6255f54c
+      internalID: 1808637081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439fbaed44238f429170f57dde13bcd
+      internalID: -1190145975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e878a51daf70dc4aa9b00ed81afbd45
+      internalID: 1831191590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c0618fda43ea45bea7e1fa89bf935
+      internalID: 280898021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_47
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ad3f9eb7a7584baabe0a28f2d1579
+      internalID: -1923376179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae552cfe8da8f94fbb41ee189e68e7c
+      internalID: -1842460044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 8
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0897b90e36949345af7bdb15a2e596c
+      internalID: -1389934615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_50
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 8
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8194286c67dfda4d857923e5f574fdd
+      internalID: -687174358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_pale_red_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 8
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f89c0294294b7d4b94445eb11930ade
+      internalID: -193490046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel_character_pale_red_0: -1304268973
+      pixel_character_pale_red_1: 513413228
+      pixel_character_pale_red_10: 1708496130
+      pixel_character_pale_red_11: 262616576
+      pixel_character_pale_red_12: 286056019
+      pixel_character_pale_red_13: 375781257
+      pixel_character_pale_red_14: 1202978791
+      pixel_character_pale_red_15: 90036726
+      pixel_character_pale_red_16: 346035277
+      pixel_character_pale_red_17: 569398267
+      pixel_character_pale_red_18: -1602536968
+      pixel_character_pale_red_19: -114178047
+      pixel_character_pale_red_2: 1792792509
+      pixel_character_pale_red_20: -91868594
+      pixel_character_pale_red_21: -254997307
+      pixel_character_pale_red_22: -1695168117
+      pixel_character_pale_red_23: 114569502
+      pixel_character_pale_red_24: 526424855
+      pixel_character_pale_red_25: 1536158645
+      pixel_character_pale_red_26: -1895016027
+      pixel_character_pale_red_27: -1680498904
+      pixel_character_pale_red_28: 1286780535
+      pixel_character_pale_red_29: 1890668417
+      pixel_character_pale_red_3: 1686222868
+      pixel_character_pale_red_30: 222707667
+      pixel_character_pale_red_31: -1878323157
+      pixel_character_pale_red_32: -2064238183
+      pixel_character_pale_red_33: -601692768
+      pixel_character_pale_red_34: -1623474332
+      pixel_character_pale_red_35: -1482395084
+      pixel_character_pale_red_36: -1824275351
+      pixel_character_pale_red_37: -1118618274
+      pixel_character_pale_red_38: -858048178
+      pixel_character_pale_red_39: 1402637805
+      pixel_character_pale_red_4: 1305368546
+      pixel_character_pale_red_40: 2047412185
+      pixel_character_pale_red_41: -1054256955
+      pixel_character_pale_red_42: 2025565587
+      pixel_character_pale_red_43: 1808637081
+      pixel_character_pale_red_44: -1190145975
+      pixel_character_pale_red_45: 1831191590
+      pixel_character_pale_red_46: 280898021
+      pixel_character_pale_red_47: -1923376179
+      pixel_character_pale_red_48: -1842460044
+      pixel_character_pale_red_49: -1389934615
+      pixel_character_pale_red_5: 10673765
+      pixel_character_pale_red_50: -687174358
+      pixel_character_pale_red_51: -193490046
+      pixel_character_pale_red_6: 1348064247
+      pixel_character_pale_red_7: -1889135749
+      pixel_character_pale_red_8: -243673482
+      pixel_character_pale_red_9: -379554652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
