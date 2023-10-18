@@ -7,6 +7,11 @@ public class ScoreAmount : MonoBehaviour
 
     private int mScore;
 
+    private void Start()
+    {
+        mScoreAmount.text = "0";
+    }
+
     private void OnEnable()
     {
         Actions.IncreaseScore += AddScore;

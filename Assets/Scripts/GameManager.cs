@@ -7,5 +7,6 @@ public class GameManager : MonoBehaviour
     public void GameStartButton()
     {
         mMenuPanel.SetActive(false);
+        Actions.StartGame?.Invoke();
     }
 }
