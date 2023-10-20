@@ -1,0 +1,9 @@
+<atlas>
+	<image>
+		<name>player</name>
+		<x>86</x>
+		<y>86</y>
+		<w>75</w>
+		<h>70</h>
+	</image>
+</atlas>

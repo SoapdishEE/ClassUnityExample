@@ -7,6 +7,10 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float mRunSpeed;
     [SerializeField] private float mJumpForce;
     [SerializeField] private Animator mAnimator = null;
+    [SerializeField] private AudioSource mJumpSFX = null;
+    [SerializeField] private AudioSource mCoinCollectSFX = null;
+    [SerializeField] private PlayerData mPlayerConfig = null;
+    [SerializeField] private ParticleSystem mParticle = null;
 
     private float mHorizontalMovement;
     private float mVerticalMovement;
@@ -29,7 +33,7 @@ public class PlayerController : MonoBehaviour
         mRunSpeed = 2;
         mHorizontalMovement = 0;
         mVerticalMovement = 0;
-        mMoveSpeed = 5;
+        mMoveSpeed = mPlayerConfig.MovementSpeed;
         mIsMoving = false;
     }
 
@@ -95,6 +99,7 @@ public class PlayerController : MonoBehaviour
         if (mIsOnGround)
         {
             mRigidbody.AddForce(Vector2.up * mJumpForce);
+            mJumpSFX.Play();
         }
     }
 
@@ -119,6 +124,8 @@ public class PlayerController : MonoBehaviour
         {
             Actions.IncreaseScore?.Invoke(100);
             collision.gameObject.SetActive(false);
+            mCoinCollectSFX.Play();
+            //mParticle.Play();
         }
     }
 
